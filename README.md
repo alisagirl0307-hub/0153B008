@@ -1,7 +1,9 @@
+
 # 江欣玲的個人網頁
 
 <div align="center">
   <img src="image/photo_0.png" alt="個人照片" width="300px" style="border-radius: 50%;">
+  <img width="1108" height="1477" alt="滴定" src="https://github.com/user-attachments/assets/20376b00-1b3f-4435-b33e-b3c136e12667" />
 </div>
 
 ## 1. 基本資料 / Profile
